@@ -31,7 +31,6 @@ for i in range(0, 101):
 print(f"Even Sum: {sum}")
 
 ## Exercise 3 -
-
 for i in range(1,101):
     if i%3 == 0:
         if i%5 == 0:
